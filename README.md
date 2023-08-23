@@ -21,3 +21,11 @@ The questions this script will ask you:
 5. Client Link (use if you want to be able to reference back to clients)
 6. Location Link (use if you want to be able to reference back to locations)
 7. Computer Link (use if you want to be able to reference back to computers)
+
+## Stipulations for formatting the Insert Statement
+- Replaced commas within functions with double semicolons.
+
+- Ensured that the "AS" keyword is in lowercase.
+
+- Wrapped the column names with backticks.
+Example: 
